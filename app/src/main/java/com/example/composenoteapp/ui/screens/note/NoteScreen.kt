@@ -1,4 +1,4 @@
-package com.example.composenoteapp.ui.screens
+package com.example.composenoteapp.ui.screens.note
 
 import androidx.compose.foundation.border
 import androidx.compose.foundation.layout.Arrangement
